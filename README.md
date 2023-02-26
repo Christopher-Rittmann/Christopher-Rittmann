@@ -3,6 +3,7 @@ Welcome to my GitHub page. Here I will post tutorials on how to complete common 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
+  - [How to Create a Virtual Machine in Azure](https://github.com/Christopher-Rittmann/CreateVMInAzure)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Christopher-Rittmann/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Christopher-Rittmann/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
